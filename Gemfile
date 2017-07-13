@@ -42,6 +42,8 @@ gem 'geocoder'
 gem 'bootstrap-sass'
 gem 'font-awesome-rails'
 
+gem 'figaro'
+
 
 
 group :development, :test do
